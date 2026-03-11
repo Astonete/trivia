@@ -1,1 +1,2 @@
 # trivia
+archivo nuevo estado
