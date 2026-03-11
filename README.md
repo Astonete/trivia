@@ -1,2 +1,3 @@
 # trivia
-archivo nuevo estado
+# archivo nuevo estado
+# otra linea mas
